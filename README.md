@@ -14,7 +14,7 @@ This project provides a Python script to read Amazon product reviews from a CSV 
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/amazon-reviews-analysis.git
+    git clone https://github.com/<your-username>/amazon-reviews-analysis.git
     cd amazon-reviews-analysis
     ```
 
