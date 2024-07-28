@@ -40,3 +40,6 @@ This project provides a Python script to read Amazon product reviews from a CSV 
 - `read_data(file_path)`: Reads data from the CSV file.
 - `collect_usernames_for_product(data, product_id)`: Collects usernames for the specified product ID.
 - `visualize_usernames(usernames, product_id)`: Visualizes the count of reviews per user for the specified product ID.
+
+
+` Dataset retrieved form https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset`

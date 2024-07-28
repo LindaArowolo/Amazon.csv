@@ -1,0 +1,8 @@
+# macOS Finder metadata
+.DS_Store
+
+# JetBrains IDEs settings
+.idea/
+
+# Python bytecode
+__pycache__/
