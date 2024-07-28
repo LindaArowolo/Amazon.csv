@@ -42,4 +42,4 @@ This project provides a Python script to read Amazon product reviews from a CSV 
 - `visualize_usernames(usernames, product_id)`: Visualizes the count of reviews per user for the specified product ID.
 
 
-` Dataset retrieved form https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset`
+` Dataset retrieved from` https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
